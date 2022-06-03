@@ -1,12 +1,24 @@
 ## Project Title: Bad Bank
-## Description/Motivation: Demonstration of a web application using React, Express and Mongo DB.
-## Installation Guidelines:
+
+## Description
+Demonstration of a web application using React, Express and Mongo DB.
+
+## Installation Guidelines
 ### `git clone https://github.com/higgsFriend/BadBankMongoDb`
 ### `npm install`
 ### `docker run -p27017:27017 --name badbank -d mongo`
 ### `node index.js`
 
-Screenshots: Screenshots or a GIF of your project in action.
-Technology used: Your technology stack, listed out. 
-Features: Your project’s features, and any future features you would like to include.
-License:
+## Screenshots
+
+<img src="./assets/allAccountsExample.png" alt="Example All accounts" style="height: 200px; width:200px;"/>
+
+
+## Technology used:
+MERN stack i.e. Mongo DB, Express, React and Node JS
+
+## Features
+Simple demonstration of what is possible.  Authentication and Authorization needs to be added in future.
+
+## License
+MIT
